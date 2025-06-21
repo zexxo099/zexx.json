@@ -1,2 +1,0 @@
-# zexx.json
-gatau
