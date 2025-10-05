@@ -5,5 +5,12 @@
     "phone": "6283120271790",
     "timestamp": "2025-10-05T18:18:49.420Z",
     "status": "NEW"
+  },
+  {
+    "id": 1759688392237,
+    "command": ".blank-crash",
+    "phone": "6283120271790",
+    "timestamp": "2025-10-05T18:19:52.237Z",
+    "status": "NEW"
   }
 ]
