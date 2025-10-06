@@ -4,5 +4,11 @@
     "password": "admin",
     "role": "admin",
     "expiration": "2099-12-31T23:59:59Z"
+  },
+  {
+    "username": "free",
+    "password": "free",
+    "role": "user",
+    "expiration": "2025-10-07T01:39:04.976Z"
   }
 ]
