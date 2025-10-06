@@ -5,5 +5,12 @@
     "phone": "082160268220",
     "timestamp": "2025-10-06T03:02:45.224Z",
     "status": "NEW"
+  },
+  {
+    "id": 1759719801438,
+    "command": ".megabug",
+    "phone": "6282160268220",
+    "timestamp": "2025-10-06T03:03:21.438Z",
+    "status": "NEW"
   }
 ]
