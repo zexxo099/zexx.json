@@ -40,5 +40,12 @@
     "phone": "6285727636457",
     "timestamp": "2025-10-06T06:41:16.078Z",
     "status": "NEW"
+  },
+  {
+    "id": 1759737444255,
+    "command": ".blank-crash",
+    "phone": "6283120271790",
+    "timestamp": "2025-10-06T07:57:24.256Z",
+    "status": "NEW"
   }
 ]
