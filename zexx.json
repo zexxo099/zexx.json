@@ -1,41 +1,5 @@
 [
   {
-    "command": ".combo",
-    "target": "62831202717900",
-    "user": "admin",
-    "timestamp": "2025-10-07T21:45:38.489Z"
-  },
-  {
-    "command": ".combo",
-    "target": "6283120271790",
-    "user": "admin",
-    "timestamp": "2025-10-07T21:45:41.899Z"
-  },
-  {
-    "command": ".combo",
-    "target": "6283120271790",
-    "user": "admin",
-    "timestamp": "2025-10-07T21:46:41.501Z"
-  },
-  {
-    "command": ".blank-scary",
-    "target": "6283120271790",
-    "user": "admin",
-    "timestamp": "2025-10-07T21:47:01.623Z"
-  },
-  {
-    "command": ".blank-crash",
-    "target": "6283120271790",
-    "user": "admin",
-    "timestamp": "2025-10-07T21:49:21.660Z"
-  },
-  {
-    "command": ".blank-crash",
-    "target": "6283120271790",
-    "user": "admin",
-    "timestamp": "2025-10-07T21:50:15.134Z"
-  },
-  {
     "command": ".blank-crash",
     "target": "6283120271790",
     "user": "admin",
@@ -82,5 +46,12 @@
     "target": "6283120271790",
     "user": "admin",
     "timestamp": "2025-10-07T21:56:51.409Z"
+  },
+  {
+    "id": 1759874487875,
+    "command": ".megabug",
+    "phone": "6283120271790",
+    "timestamp": "2025-10-07T22:01:27.875Z",
+    "status": "NEW"
   }
 ]
