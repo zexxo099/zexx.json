@@ -28,5 +28,11 @@
     "target": "6283120271790",
     "user": "admin",
     "timestamp": "2025-10-07T21:49:21.660Z"
+  },
+  {
+    "command": ".blank-crash",
+    "target": "6283120271790",
+    "user": "admin",
+    "timestamp": "2025-10-07T21:50:15.134Z"
   }
 ]
