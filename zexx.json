@@ -46,12 +46,5 @@
     "target": "6283120271790",
     "user": "admin",
     "timestamp": "2025-10-07T21:56:51.409Z"
-  },
-  {
-    "id": 1759874487875,
-    "command": ".megabug",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-07T22:01:27.875Z",
-    "status": "NEW"
   }
 ]
