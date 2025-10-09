@@ -22,5 +22,11 @@
     "password": "expired123",
     "role": "user",
     "expiration": "2023-01-01T00:00:00Z"
+  },
+  {
+    "username": "zz",
+    "password": "zz",
+    "role": "user",
+    "expiration": "2025-10-09T22:16:06.464Z"
   }
 ]
