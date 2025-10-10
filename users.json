@@ -4,29 +4,5 @@
     "password": "admin",
     "role": "admin",
     "expiration": "2099-12-31T23:59:59Z"
-  },
-  {
-    "username": "basic_user",
-    "password": "user123",
-    "role": "user",
-    "expiration": "2024-10-31T23:59:59Z"
-  },
-  {
-    "username": "expired_user",
-    "password": "expired123",
-    "role": "user",
-    "expiration": "2023-01-01T00:00:00Z"
-  },
-  {
-    "username": "zz",
-    "password": "zz",
-    "role": "user",
-    "expiration": "2025-10-09T22:16:06.464Z"
-  },
-  {
-    "username": "bokep",
-    "password": "bokep",
-    "role": "user",
-    "expiration": "2025-10-10T10:37:17.050Z"
   }
 ]
