@@ -30,5 +30,12 @@
     "timestamp": "2025-10-11T03:25:13.863Z",
     "status": "ERROR",
     "error": "tdx is not defined"
+  },
+  {
+    "id": 1760153136681,
+    "command": ".blank",
+    "phone": "6283120271790",
+    "timestamp": "2025-10-11T03:25:36.681Z",
+    "status": "NEW"
   }
 ]
