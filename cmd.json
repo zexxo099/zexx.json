@@ -14,12 +14,5 @@
     "timestamp": "2025-10-11T03:04:11.776Z",
     "status": "ERROR",
     "error": "Vync is not defined"
-  },
-  {
-    "id": 1760152831549,
-    "command": ".blank",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-11T03:20:31.549Z",
-    "status": "NEW"
   }
 ]
