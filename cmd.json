@@ -28,6 +28,7 @@
     "command": ".combo",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T23:50:20.734Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Connection Closed"
   }
 ]
