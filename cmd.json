@@ -14,13 +14,5 @@
     "timestamp": "2025-10-11T03:04:11.776Z",
     "status": "ERROR",
     "error": "Vync is not defined"
-  },
-  {
-    "id": 1760153191187,
-    "command": ".jalo",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-11T03:26:31.187Z",
-    "status": "PROCESSED",
-    "processedAt": "2025-10-11T03:26:46.487Z"
   }
 ]
