@@ -12,6 +12,7 @@
     "command": ".blank-scary",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T03:01:02.731Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Vync is not defined"
   }
 ]
