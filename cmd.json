@@ -20,13 +20,15 @@
     "command": "halo",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T03:26:10.612Z",
-    "status": "NEW"
+    "status": "PROCESSED",
+    "processedAt": "2025-10-11T03:26:46.232Z"
   },
   {
     "id": 1760153191187,
     "command": ".jalo",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T03:26:31.187Z",
-    "status": "NEW"
+    "status": "PROCESSED",
+    "processedAt": "2025-10-11T03:26:46.487Z"
   }
 ]
