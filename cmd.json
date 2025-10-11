@@ -20,6 +20,7 @@
     "command": ".combo",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T03:18:56.675Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "tdx is not defined"
   }
 ]
