@@ -28,6 +28,7 @@
     "command": ".delay",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T09:49:55.671Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "mention is not defined"
   }
 ]
