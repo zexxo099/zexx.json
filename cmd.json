@@ -16,14 +16,6 @@
     "error": "Vync is not defined"
   },
   {
-    "id": 1760153080138,
-    "command": ".combo",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-11T03:24:40.138Z",
-    "status": "ERROR",
-    "error": "tdx is not defined"
-  },
-  {
     "id": 1760153113863,
     "command": ".blank-crash",
     "phone": "6283120271790",
