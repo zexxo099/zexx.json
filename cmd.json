@@ -22,5 +22,12 @@
     "timestamp": "2025-10-11T09:49:31.364Z",
     "status": "ERROR",
     "error": "sixxlowwY is not defined"
+  },
+  {
+    "id": 1760176195671,
+    "command": ".delay",
+    "phone": "6283120271790",
+    "timestamp": "2025-10-11T09:49:55.671Z",
+    "status": "NEW"
   }
 ]
