@@ -4,6 +4,7 @@
     "command": ".blank-crash",
     "phone": "6283120271790",
     "timestamp": "2025-10-11T02:59:55.972Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Vync is not defined"
   }
 ]
