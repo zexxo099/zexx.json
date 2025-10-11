@@ -12,6 +12,7 @@
     "command": ".blank",
     "phone": "62832120271780",
     "timestamp": "2025-10-11T03:04:11.776Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Vync is not defined"
   }
 ]
