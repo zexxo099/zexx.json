@@ -20,6 +20,7 @@
     "command": ".blank-scary",
     "phone": "62881027229875",
     "timestamp": "2025-10-12T17:57:40.876Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Connection Closed"
   }
 ]
