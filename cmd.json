@@ -1,25 +1,2 @@
 [
-  {
-    "id": 1760151595972,
-    "command": ".blank-crash",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-11T02:59:55.972Z",
-    "status": "ERROR",
-    "error": "Vync is not defined"
-  },
-  {
-    "id": 1760151851776,
-    "command": ".blank",
-    "phone": "62832120271780",
-    "timestamp": "2025-10-11T03:04:11.776Z",
-    "status": "ERROR",
-    "error": "Vync is not defined"
-  },
-  {
-    "id": 1760293330183,
-    "command": ".blank-scary",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-12T18:22:10.183Z",
-    "status": "NEW"
-  }
 ]
