@@ -54,15 +54,9 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   },
   {
-    "name": "Jtw — Freze Hard",
+    "name": "AllFuncProtocol",
     "type": "file",
     "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Jtw — Freze Hard.js"
-  },
-  {
-    "name": "𝐔𝐍𝐒𝐄𝐑𝐁𝐎𝐓 𝐕𝟑",
-    "type": "file",
-    "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/𝐔𝐍𝐒𝐄𝐑𝐁𝐎𝐓 𝐕𝟑.zip"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/AllFuncProtocol.js"
   }
 ]
