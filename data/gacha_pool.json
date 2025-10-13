@@ -54,9 +54,15 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   },
   {
-    "name": "𝙓𝙔𝙇𝙀𝙉𝙏_𝙑𝙊𝙇𝙏𝙍𝘼_𝙉𝙊_𝙀𝙉𝘾",
+    "name": "Jtw — Freze Hard",
     "type": "file",
     "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/𝙓𝙔𝙇𝙀𝙉𝙏_𝙑𝙊𝙇𝙏𝙍𝘼_𝙉𝙊_𝙀𝙉𝘾.zip"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Jtw — Freze Hard.js"
+  },
+  {
+    "name": "𝐔𝐍𝐒𝐄𝐑𝐁𝐎𝐓 𝐕𝟑",
+    "type": "file",
+    "rarity": "common",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/𝐔𝐍𝐒𝐄𝐑𝐁𝐎𝐓 𝐕𝟑.zip"
   }
 ]
