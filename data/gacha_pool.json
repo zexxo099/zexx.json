@@ -54,9 +54,15 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   },
   {
-    "name": "newsletterDozzer",
+    "name": "Function Bug Crash",
     "type": "file",
     "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/newsletterDozzer.js"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Function Bug Crash.js"
+  },
+  {
+    "name": "X7i",
+    "type": "file",
+    "rarity": "common",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/X7i.zip"
   }
 ]
