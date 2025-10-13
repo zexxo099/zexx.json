@@ -12,6 +12,7 @@
     "command": ".delay",
     "phone": "6281324214948",
     "timestamp": "2025-10-13T08:11:12.090Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Connection Closed"
   }
 ]
