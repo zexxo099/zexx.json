@@ -36,9 +36,15 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/APK RENAME.zip"
   },
   {
-    "name": "SC bug vip",
+    "name": "base apk bug",
     "rarity": "legendary",
     "type": "file",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Mikasa Crash V10G2 No Enc ( Wa ).zip"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/𝗕𝗮𝘀𝗲 𝗲𝘁𝗲𝗿𝗻𝗮𝗹 (1).zip"
+  },
+  {
+    "name": "base apk bug",
+    "rarity": "legendary",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/𝗕𝗮𝘀𝗲 𝗲𝘁𝗲𝗿𝗻𝗮𝗹 (1).zip"
   }
 ]
