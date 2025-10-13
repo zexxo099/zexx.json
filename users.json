@@ -1,20 +1,19 @@
-[
-  {
-    "username": "admin",
-    "password": "admin",
-    "role": "admin",
-    "expiration": "2099-12-31T23:59:59Z"
-  },
-  {
-    "username": "z",
-    "password": "z",
-    "role": "user",
-    "expiration": "2025-10-12T00:18:41.544Z"
-  },
-  {
-    "username": "rahimul",
-    "password": "rahimul001",
-    "role": "user",
-    "expiration": "2033-04-13T07:55:44.521Z"
+{
+  "last_updated": "2025-10-13T11:19:31.418Z",
+  "totalGroups": 0,
+  "users": {
+    "6383948262": {
+      "id": 6383948262,
+      "username": "athararksa",
+      "is_premium": false,
+      "gacha_count": 0,
+      "gacha_limit": 10,
+      "bonus_gacha": 0,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "last_gacha_reset": "2025-10-13T11:19:31.418Z",
+      "invited_by": null
+    }
   }
-]
+}
