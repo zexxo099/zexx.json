@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T11:43:37.919Z",
+  "last_updated": "2025-10-13T11:57:02.017Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -9,10 +9,16 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 10,
-      "bonus_gacha": 2,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
-      "rare_drops_count": 0,
+      "bonus_gacha": 1,
+      "gacha_history": [
+        {
+          "name": "zexxo",
+          "rarity": "rare",
+          "date": "2025-10-13T11:57:02.017Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
+      "rare_drops_count": 1,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-13",
       "last_daily_claim": "2025-10-13",
