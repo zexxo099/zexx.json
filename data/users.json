@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T14:29:01.198Z",
+  "last_updated": "2025-10-13T14:29:21.146Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -134,7 +134,7 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 4,
+      "gacha_count": 5,
       "gacha_limit": 10,
       "bonus_gacha": 0,
       "gacha_history": [
@@ -157,10 +157,15 @@
           "name": "FILE BADAK WA",
           "rarity": "rare",
           "date": "2025-10-13T14:29:01.198Z"
+        },
+        {
+          "name": "FILE BADAK WA",
+          "rarity": "rare",
+          "date": "2025-10-13T14:29:21.146Z"
         }
       ],
-      "total_gacha_lifetime": 4,
-      "rare_drops_count": 4,
+      "total_gacha_lifetime": 5,
+      "rare_drops_count": 5,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-13",
       "last_daily_claim": null,
