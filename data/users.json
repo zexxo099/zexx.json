@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T11:57:02.017Z",
+  "last_updated": "2025-10-13T11:57:25.160Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -9,7 +9,7 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 10,
-      "bonus_gacha": 1,
+      "bonus_gacha": 11,
       "gacha_history": [
         {
           "name": "zexxo",
