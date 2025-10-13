@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T14:27:44.372Z",
+  "last_updated": "2025-10-13T14:28:06.981Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -154,11 +154,11 @@
     },
     "7714908703": {
       "id": 7714908703,
-      "username": "kingultramantzy",
-      "is_premium": false,
-      "premium_expires": null,
+      "username": "N/A",
+      "is_premium": true,
+      "premium_expires": "2025-10-23T14:28:06.972Z",
       "gacha_count": 0,
-      "gacha_limit": 10,
+      "gacha_limit": 50,
       "bonus_gacha": 0,
       "gacha_history": [],
       "total_gacha_lifetime": 0,
