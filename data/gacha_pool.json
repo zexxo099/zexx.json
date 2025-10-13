@@ -54,15 +54,9 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   },
   {
-    "name": "Function Bug Crash",
+    "name": "svvip_apk_ransomware.apk",
     "type": "file",
     "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Function Bug Crash.js"
-  },
-  {
-    "name": "X7i",
-    "type": "file",
-    "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/X7i.zip"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/svvip_apk_ransomware.apk"
   }
 ]
