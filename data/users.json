@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T12:15:35.427Z",
+  "last_updated": "2025-10-13T12:16:06.836Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -26,7 +26,7 @@
       "premium_expires": null,
       "gacha_count": 1,
       "gacha_limit": 10,
-      "bonus_gacha": 0,
+      "bonus_gacha": 2,
       "gacha_history": [
         {
           "name": "SC bug",
@@ -38,7 +38,7 @@
       "rare_drops_count": 1,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-13",
-      "last_daily_claim": null,
+      "last_daily_claim": "2025-10-13",
       "invited_by": null,
       "referrals": 0
     }
