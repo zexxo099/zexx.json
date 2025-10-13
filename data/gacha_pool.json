@@ -46,5 +46,11 @@
     "rarity": "legendary",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/𝗕𝗮𝘀𝗲 𝗲𝘁𝗲𝗿𝗻𝗮𝗹 (1).zip"
+  },
+  {
+    "name": "random",
+    "rarity": "rare",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   }
 ]
