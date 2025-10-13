@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T15:15:42.629Z",
+  "last_updated": "2025-10-13T15:20:01.861Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -182,9 +182,9 @@
       "invited_by": null,
       "referrals": 0
     },
-    "8130812279": {
-      "id": 8130812279,
-      "username": "Rullnew",
+    "8339704467": {
+      "id": 8339704467,
+      "username": "RissHosting",
       "is_premium": false,
       "premium_expires": null,
       "gacha_count": 0,
@@ -199,29 +199,18 @@
       "invited_by": null,
       "referrals": 0
     },
-    "7037597022": {
-      "id": 7037597022,
-      "username": "N/A",
+    "7520821236": {
+      "id": 7520821236,
+      "username": "emangeakkkkk",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 2,
+      "gacha_count": 0,
       "gacha_limit": 10,
       "bonus_gacha": 0,
-      "gacha_history": [
-        {
-          "name": "NOKOS",
-          "rarity": "common",
-          "date": "2025-10-13T15:14:57.609Z"
-        },
-        {
-          "name": "NOKOS",
-          "rarity": "common",
-          "date": "2025-10-13T15:15:42.629Z"
-        }
-      ],
-      "total_gacha_lifetime": 2,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
       "rare_drops_count": 0,
-      "pity_counter": 2,
+      "pity_counter": 0,
       "last_gacha_reset": "2025-10-13",
       "last_daily_claim": null,
       "invited_by": null,
