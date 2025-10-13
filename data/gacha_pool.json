@@ -58,5 +58,11 @@
     "type": "file",
     "rarity": "common",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/CaraoselCurse.js"
+  },
+  {
+    "name": "BASE TELE",
+    "rarity": "legendary",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/base .zip"
   }
 ]
