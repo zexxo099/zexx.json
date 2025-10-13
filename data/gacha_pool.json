@@ -54,9 +54,9 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   },
   {
-    "name": "AllFuncProtocol",
+    "name": "CaraoselCurse",
     "type": "file",
     "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/AllFuncProtocol.js"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/CaraoselCurse.js"
   }
 ]
