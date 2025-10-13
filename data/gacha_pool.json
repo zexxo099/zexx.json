@@ -22,5 +22,11 @@
     "rarity": "common",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/20251010_095813.csv"
+  },
+  {
+    "name": "obf",
+    "rarity": "rare",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/5_6291581494649428485.zip"
   }
 ]
