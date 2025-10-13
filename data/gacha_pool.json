@@ -28,5 +28,11 @@
     "rarity": "rare",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/5_6291581494649428485.zip"
+  },
+  {
+    "name": "sc",
+    "rarity": "rare",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/APK RENAME.zip"
   }
 ]
