@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T14:23:50.928Z",
+  "last_updated": "2025-10-13T14:25:16.220Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -134,12 +134,18 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 0,
+      "gacha_count": 1,
       "gacha_limit": 10,
       "bonus_gacha": 0,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
-      "rare_drops_count": 0,
+      "gacha_history": [
+        {
+          "name": "SC bug",
+          "rarity": "rare",
+          "date": "2025-10-13T14:25:16.220Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
+      "rare_drops_count": 1,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-13",
       "last_daily_claim": null,
