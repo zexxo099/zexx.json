@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T15:20:49.166Z",
+  "last_updated": "2025-10-13T16:06:50.208Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -227,6 +227,23 @@
       "total_gacha_lifetime": 3,
       "rare_drops_count": 0,
       "pity_counter": 3,
+      "last_gacha_reset": "2025-10-13",
+      "last_daily_claim": null,
+      "invited_by": null,
+      "referrals": 0
+    },
+    "6911152356": {
+      "id": 6911152356,
+      "username": "AmmNotDev2",
+      "is_premium": false,
+      "premium_expires": null,
+      "gacha_count": 0,
+      "gacha_limit": 10,
+      "bonus_gacha": 0,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "pity_counter": 0,
       "last_gacha_reset": "2025-10-13",
       "last_daily_claim": null,
       "invited_by": null,
