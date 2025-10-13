@@ -54,9 +54,15 @@
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_APK_BUG.zip"
   },
   {
-    "name": "SC_UNSERBOTV2",
+    "name": "BOT_DEPLOY_V1.2_MALZXYZ",
     "type": "file",
     "rarity": "common",
-    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/SC_UNSERBOTV2.zip"
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BOT_DEPLOY_V1.2_MALZXYZ.zip"
+  },
+  {
+    "name": "BASE_OTAX",
+    "type": "file",
+    "rarity": "common",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_OTAX.zip"
   }
 ]
