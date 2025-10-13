@@ -7,9 +7,9 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 10,
-      "gacha_limit": 10,
-      "bonus_gacha": 0,
+      "gacha_count": 1000,
+      "gacha_limit": 1000,
+      "bonus_gacha": 100,
       "gacha_history": [
         {
           "name": "NOKOS",
