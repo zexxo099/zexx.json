@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T23:55:29.117Z",
+  "last_updated": "2025-10-14T23:55:40.083Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -353,7 +353,7 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 2,
+      "gacha_count": 3,
       "gacha_limit": 10,
       "bonus_gacha": 0,
       "gacha_history": [
@@ -366,11 +366,16 @@
           "name": "Script_Obf",
           "rarity": "common",
           "date": "2025-10-14T23:55:29.117Z"
+        },
+        {
+          "name": "BASE TELE",
+          "rarity": "legendary",
+          "date": "2025-10-14T23:55:40.083Z"
         }
       ],
-      "total_gacha_lifetime": 2,
-      "rare_drops_count": 1,
-      "pity_counter": 1,
+      "total_gacha_lifetime": 3,
+      "rare_drops_count": 2,
+      "pity_counter": 0,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "invited_by": null,
