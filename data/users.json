@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T16:38:02.095Z",
+  "last_updated": "2025-10-14T16:38:08.464Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -411,16 +411,22 @@
     },
     "8069402603": {
       "id": 8069402603,
-      "username": "AlwaysRzXz",
+      "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 0,
+      "gacha_count": 1,
       "gacha_limit": 10,
       "bonus_gacha": 0,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
+      "gacha_history": [
+        {
+          "name": "Base anti baypass.zip",
+          "rarity": "common",
+          "date": "2025-10-14T16:38:08.464Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
       "rare_drops_count": 0,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "invited_by": null,
