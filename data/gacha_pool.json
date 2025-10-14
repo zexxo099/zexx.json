@@ -88,5 +88,11 @@
     "rarity": "common",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/tredic Gen 60.2.zip"
+  },
+  {
+    "name": "VOID Strom.zip",
+    "rarity": "common",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Void storm 223.zip"
   }
 ]
