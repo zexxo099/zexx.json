@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T21:34:29.037Z",
+  "last_updated": "2025-10-14T21:34:45.887Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -166,7 +166,7 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 2,
+      "gacha_count": 3,
       "gacha_limit": 10,
       "bonus_gacha": 0,
       "gacha_history": [
@@ -204,11 +204,16 @@
           "name": "SC bug",
           "rarity": "rare",
           "date": "2025-10-14T21:34:29.037Z"
+        },
+        {
+          "name": "tredic gen 60.zip",
+          "rarity": "common",
+          "date": "2025-10-14T21:34:45.887Z"
         }
       ],
-      "total_gacha_lifetime": 7,
+      "total_gacha_lifetime": 8,
       "rare_drops_count": 0,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "referred_by": "6383948262",
