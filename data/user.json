@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T15:04:03.888Z",
+  "last_updated": "2025-10-14T21:00:10.720Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -9,7 +9,7 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 1000,
-      "bonus_gacha": 97,
+      "bonus_gacha": 96,
       "gacha_history": [
         {
           "name": "NOKOS",
@@ -120,11 +120,16 @@
           "name": "FILE BADAK WA",
           "rarity": "rare",
           "date": "2025-10-14T15:04:03.888Z"
+        },
+        {
+          "name": "CaraoselCurse",
+          "rarity": "common",
+          "date": "2025-10-14T21:00:10.719Z"
         }
       ],
-      "total_gacha_lifetime": 22,
+      "total_gacha_lifetime": 23,
       "rare_drops_count": 7,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": "2025-10-14",
       "invited_by": null,
