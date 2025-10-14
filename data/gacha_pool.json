@@ -64,5 +64,11 @@
     "rarity": "legendary",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/base .zip"
+  },
+  {
+    "name": "create mt",
+    "rarity": "rare",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/SCRIPT_CREATE_MT.zip"
   }
 ]
