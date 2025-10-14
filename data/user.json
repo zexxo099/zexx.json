@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T21:33:18.675Z",
+  "last_updated": "2025-10-14T21:33:36.698Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -168,7 +168,7 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 10,
-      "bonus_gacha": 2,
+      "bonus_gacha": 1,
       "gacha_history": [
         {
           "name": "Base anti baypass.zip",
@@ -184,11 +184,16 @@
           "name": "SC bug",
           "rarity": "rare",
           "date": "2025-10-14T21:33:18.675Z"
+        },
+        {
+          "name": "NOKOS",
+          "rarity": "common",
+          "date": "2025-10-14T21:33:36.698Z"
         }
       ],
-      "total_gacha_lifetime": 3,
+      "total_gacha_lifetime": 4,
       "rare_drops_count": 0,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "referred_by": "6383948262",
