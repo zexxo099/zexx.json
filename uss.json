@@ -16,6 +16,11 @@
     "password": "passbaru456",
     "role": "user",
     "expiration": "2025-10-20T08:30:00.000Z"
+  },
+  {
+    "username": "g",
+    "password": "g",
+    "role": "user",
+    "expiration": "2026-04-14T03:31:17.092Z"
   }
 ]
-
