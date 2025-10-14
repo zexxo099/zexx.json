@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T23:27:24.190Z",
+  "last_updated": "2025-10-14T23:54:02.124Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -348,100 +348,18 @@
       "invited_by": null,
       "referrals": 0
     },
-    "6635679707": {
-      "id": 6635679707,
-      "username": "N/A",
+    "8333992748": {
+      "id": 8333992748,
+      "username": "Tt5tttttttttttttttfj",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 1,
-      "gacha_limit": 5,
-      "bonus_gacha": 0,
-      "gacha_history": [
-        {
-          "name": "create mt",
-          "rarity": "rare",
-          "date": "2025-10-14T13:11:30.567Z"
-        },
-        {
-          "name": "SC bug",
-          "rarity": "rare",
-          "date": "2025-10-14T13:12:05.374Z"
-        },
-        {
-          "name": "NOKOS",
-          "rarity": "common",
-          "date": "2025-10-14T13:12:17.187Z"
-        }
-      ],
-      "total_gacha_lifetime": 3,
-      "rare_drops_count": 2,
-      "pity_counter": 1,
-      "last_gacha_reset": "2025-10-14",
-      "last_daily_claim": "2025-10-14",
-      "invited_by": null,
-      "referrals": 0
-    },
-    "8264885114": {
-      "id": 8264885114,
-      "username": "N/A",
-      "is_premium": false,
-      "premium_expires": null,
-      "gacha_count": 2,
+      "gacha_count": 0,
       "gacha_limit": 10,
       "bonus_gacha": 0,
-      "gacha_history": [
-        {
-          "name": "random",
-          "rarity": "rare",
-          "date": "2025-10-14T14:33:43.971Z"
-        },
-        {
-          "name": "VOID Strom.zip",
-          "rarity": "common",
-          "date": "2025-10-14T14:36:40.643Z"
-        }
-      ],
-      "total_gacha_lifetime": 2,
-      "rare_drops_count": 1,
-      "pity_counter": 1,
-      "last_gacha_reset": "2025-10-14",
-      "last_daily_claim": null,
-      "invited_by": null,
-      "referrals": 0
-    },
-    "8069402603": {
-      "id": 8069402603,
-      "username": "N/A",
-      "is_premium": false,
-      "premium_expires": null,
-      "gacha_count": 4,
-      "gacha_limit": 10,
-      "bonus_gacha": 0,
-      "gacha_history": [
-        {
-          "name": "Base anti baypass.zip",
-          "rarity": "common",
-          "date": "2025-10-14T16:38:08.464Z"
-        },
-        {
-          "name": "premium",
-          "rarity": "rare",
-          "date": "2025-10-14T22:40:50.725Z"
-        },
-        {
-          "name": "NOKOS",
-          "rarity": "common",
-          "date": "2025-10-14T22:47:38.048Z"
-        },
-        {
-          "name": "CaraoselCurse",
-          "rarity": "common",
-          "date": "2025-10-14T23:27:24.190Z"
-        }
-      ],
-      "total_gacha_lifetime": 4,
-      "rare_drops_count": 1,
-      "pity_counter": 2,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "pity_counter": 0,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "invited_by": null,
