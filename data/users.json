@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T13:12:17.187Z",
+  "last_updated": "2025-10-14T14:33:34.883Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -378,6 +378,23 @@
       "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": "2025-10-14",
+      "invited_by": null,
+      "referrals": 0
+    },
+    "8264885114": {
+      "id": 8264885114,
+      "username": "dedecixhuy",
+      "is_premium": false,
+      "premium_expires": null,
+      "gacha_count": 0,
+      "gacha_limit": 10,
+      "bonus_gacha": 0,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "pity_counter": 0,
+      "last_gacha_reset": "2025-10-14",
+      "last_daily_claim": null,
       "invited_by": null,
       "referrals": 0
     }
