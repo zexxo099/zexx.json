@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T23:56:57.480Z",
+  "last_updated": "2025-10-14T23:57:24.709Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -355,7 +355,7 @@
       "premium_expires": null,
       "gacha_count": 7,
       "gacha_limit": 10,
-      "bonus_gacha": 0,
+      "bonus_gacha": 2,
       "gacha_history": [
         {
           "name": "create mt",
@@ -397,7 +397,7 @@
       "rare_drops_count": 2,
       "pity_counter": 4,
       "last_gacha_reset": "2025-10-14",
-      "last_daily_claim": null,
+      "last_daily_claim": "2025-10-14",
       "invited_by": null,
       "referrals": 0
     }
