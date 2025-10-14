@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T09:52:05.271Z",
+  "last_updated": "2025-10-14T09:55:51.733Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -85,7 +85,7 @@
     },
     "6600343456": {
       "id": 6600343456,
-      "username": "N/A",
+      "username": "Lutzx991",
       "is_premium": false,
       "premium_expires": null,
       "gacha_count": 1,
@@ -121,7 +121,7 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 3,
+      "gacha_count": 4,
       "gacha_limit": 10,
       "bonus_gacha": 0,
       "gacha_history": [
@@ -144,11 +144,16 @@
           "name": "random",
           "rarity": "rare",
           "date": "2025-10-14T09:52:05.271Z"
+        },
+        {
+          "name": "CaraoselCurse",
+          "rarity": "common",
+          "date": "2025-10-14T09:55:51.733Z"
         }
       ],
-      "total_gacha_lifetime": 4,
+      "total_gacha_lifetime": 5,
       "rare_drops_count": 2,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "invited_by": null,
