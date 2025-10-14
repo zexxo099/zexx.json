@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T09:25:11.730Z",
+  "last_updated": "2025-10-14T09:38:40.259Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -9,7 +9,7 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 1000,
-      "bonus_gacha": 99,
+      "bonus_gacha": 98,
       "gacha_history": [
         {
           "name": "NOKOS",
@@ -110,9 +110,14 @@
           "name": "FILE BADAK WA",
           "rarity": "rare",
           "date": "2025-10-14T09:25:11.730Z"
+        },
+        {
+          "name": "base apk bug",
+          "rarity": "legendary",
+          "date": "2025-10-14T09:38:40.259Z"
         }
       ],
-      "total_gacha_lifetime": 20,
+      "total_gacha_lifetime": 21,
       "rare_drops_count": 7,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-14",
