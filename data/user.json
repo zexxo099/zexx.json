@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T21:34:14.673Z",
+  "last_updated": "2025-10-14T21:34:29.037Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -166,7 +166,7 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 1,
+      "gacha_count": 2,
       "gacha_limit": 10,
       "bonus_gacha": 0,
       "gacha_history": [
@@ -199,9 +199,14 @@
           "name": "create mt",
           "rarity": "rare",
           "date": "2025-10-14T21:34:14.673Z"
+        },
+        {
+          "name": "SC bug",
+          "rarity": "rare",
+          "date": "2025-10-14T21:34:29.037Z"
         }
       ],
-      "total_gacha_lifetime": 6,
+      "total_gacha_lifetime": 7,
       "rare_drops_count": 0,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-14",
