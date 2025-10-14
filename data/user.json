@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-13T15:33:39.902Z",
+  "last_updated": "2025-10-14T07:48:06.796Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -7,9 +7,9 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 1000,
+      "gacha_count": 0,
       "gacha_limit": 1000,
-      "bonus_gacha": 100,
+      "bonus_gacha": 102,
       "gacha_history": [
         {
           "name": "NOKOS",
@@ -74,9 +74,9 @@
       ],
       "total_gacha_lifetime": 12,
       "rare_drops_count": 4,
-      "pity_counter": 3,
-      "last_gacha_reset": "2025-10-13",
-      "last_daily_claim": "2025-10-13",
+      "pity_counter": 0,
+      "last_gacha_reset": "2025-10-14",
+      "last_daily_claim": "2025-10-14",
       "invited_by": null,
       "referrals": 0
     }
