@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T13:11:00.010Z",
+  "last_updated": "2025-10-14T13:11:30.567Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -350,15 +350,21 @@
     },
     "6635679707": {
       "id": 6635679707,
-      "username": "selow14",
+      "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 0,
+      "gacha_count": 1,
       "gacha_limit": 5,
       "bonus_gacha": 0,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
-      "rare_drops_count": 0,
+      "gacha_history": [
+        {
+          "name": "create mt",
+          "rarity": "rare",
+          "date": "2025-10-14T13:11:30.567Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
+      "rare_drops_count": 1,
       "pity_counter": 0,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
