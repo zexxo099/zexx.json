@@ -94,5 +94,11 @@
     "rarity": "common",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/Void storm 223.zip"
+  },
+  {
+    "name": "BASE BUG WA",
+    "rarity": "common",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_V2.zip"
   }
 ]
