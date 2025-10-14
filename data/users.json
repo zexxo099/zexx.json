@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T09:33:34.145Z",
+  "last_updated": "2025-10-14T09:50:29.828Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -90,7 +90,7 @@
       "premium_expires": null,
       "gacha_count": 1,
       "gacha_limit": 10,
-      "bonus_gacha": 2,
+      "bonus_gacha": 1,
       "gacha_history": [
         {
           "name": "SC bug",
@@ -101,11 +101,16 @@
           "name": "NOKOS",
           "rarity": "common",
           "date": "2025-10-14T09:32:27.756Z"
+        },
+        {
+          "name": "NOKOS",
+          "rarity": "common",
+          "date": "2025-10-14T09:50:29.828Z"
         }
       ],
-      "total_gacha_lifetime": 2,
+      "total_gacha_lifetime": 3,
       "rare_drops_count": 1,
-      "pity_counter": 1,
+      "pity_counter": 2,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": "2025-10-14",
       "invited_by": null,
