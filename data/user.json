@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T08:18:07.291Z",
+  "last_updated": "2025-10-14T09:10:55.828Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -9,7 +9,7 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 1000,
-      "bonus_gacha": 101,
+      "bonus_gacha": 100,
       "gacha_history": [
         {
           "name": "NOKOS",
@@ -100,11 +100,16 @@
           "name": "premium",
           "rarity": "rare",
           "date": "2025-10-14T08:17:38.048Z"
+        },
+        {
+          "name": "CaraoselCurse",
+          "rarity": "common",
+          "date": "2025-10-14T09:10:55.828Z"
         }
       ],
-      "total_gacha_lifetime": 18,
+      "total_gacha_lifetime": 19,
       "rare_drops_count": 7,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": "2025-10-14",
       "invited_by": null,
