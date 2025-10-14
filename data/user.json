@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T21:33:11.915Z",
+  "last_updated": "2025-10-14T21:33:18.675Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -168,7 +168,7 @@
       "premium_expires": null,
       "gacha_count": 0,
       "gacha_limit": 10,
-      "bonus_gacha": 3,
+      "bonus_gacha": 2,
       "gacha_history": [
         {
           "name": "Base anti baypass.zip",
@@ -179,11 +179,16 @@
           "name": "tredic gen 60.zip",
           "rarity": "common",
           "date": "2025-10-14T21:33:11.915Z"
+        },
+        {
+          "name": "SC bug",
+          "rarity": "rare",
+          "date": "2025-10-14T21:33:18.675Z"
         }
       ],
-      "total_gacha_lifetime": 2,
+      "total_gacha_lifetime": 3,
       "rare_drops_count": 0,
-      "pity_counter": 2,
+      "pity_counter": 0,
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "referred_by": "6383948262",
