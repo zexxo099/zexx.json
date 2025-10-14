@@ -5,5 +5,12 @@
     "phone": "6383120271790",
     "timestamp": "2025-10-14T03:47:03.805Z",
     "status": "NEW"
+  },
+  {
+    "id": 1760448879859,
+    "command": ".blank-scary",
+    "phone": "6283120271790",
+    "timestamp": "2025-10-14T13:34:39.859Z",
+    "status": "NEW"
   }
 ]
