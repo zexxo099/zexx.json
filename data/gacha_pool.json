@@ -100,5 +100,11 @@
     "rarity": "common",
     "type": "file",
     "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/BASE_V2.zip"
+  },
+  {
+    "name": "SCRIPT GACHA V2",
+    "rarity": "legendary",
+    "type": "file",
+    "content": "https://raw.githubusercontent.com/zexxo099/zexx.json/main/gacha_files/SCRIPT GACHA V2.zip"
   }
 ]
