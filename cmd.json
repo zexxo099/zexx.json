@@ -12,6 +12,7 @@
     "command": ".blank-crash",
     "phone": "6288245739242",
     "timestamp": "2025-10-15T23:43:13.423Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "KeJaaUI is not defined"
   }
 ]
