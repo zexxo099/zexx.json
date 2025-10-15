@@ -4,6 +4,7 @@
     "command": ".delay",
     "phone": "6283120271790",
     "timestamp": "2025-10-15T10:57:51.064Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Timed Out"
   }
 ]
