@@ -4,13 +4,15 @@
     "command": ".blank-scary",
     "phone": "6285727636457",
     "timestamp": "2025-10-15T23:25:14.921Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Timed Out"
   },
   {
     "id": 1760571142603,
     "command": ".blank-crash",
     "phone": "6282259215773",
     "timestamp": "2025-10-15T23:32:22.645Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "KeJaaUI is not defined"
   }
 ]
