@@ -4,6 +4,7 @@
     "command": ".blank",
     "phone": "6283120271790",
     "timestamp": "2025-10-15T23:05:33.109Z",
-    "status": "NEW"
+    "status": "PROCESSED",
+    "processedAt": "2025-10-15T23:06:30.221Z"
   }
 ]
