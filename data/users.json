@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15T06:24:51.930Z",
+  "last_updated": "2025-10-15T06:26:30.977Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -416,7 +416,7 @@
       "premium_expires": null,
       "gacha_count": 2,
       "gacha_limit": 10,
-      "bonus_gacha": 2,
+      "bonus_gacha": 1,
       "gacha_history": [
         {
           "name": "Base anti baypass.zip",
@@ -447,11 +447,16 @@
           "name": "tredic gen 60.zip",
           "rarity": "common",
           "date": "2025-10-15T06:24:10.538Z"
+        },
+        {
+          "name": "NOKOS",
+          "rarity": "common",
+          "date": "2025-10-15T06:26:30.977Z"
         }
       ],
-      "total_gacha_lifetime": 6,
+      "total_gacha_lifetime": 7,
       "rare_drops_count": 2,
-      "pity_counter": 1,
+      "pity_counter": 2,
       "last_gacha_reset": "2025-10-15",
       "last_daily_claim": "2025-10-15",
       "invited_by": null,
