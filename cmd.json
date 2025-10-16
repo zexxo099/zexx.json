@@ -6,12 +6,5 @@
     "timestamp": "2025-10-15T23:25:14.921Z",
     "status": "ERROR",
     "error": "Timed Out"
-  },
-  {
-    "id": 1760593682500,
-    "command": ".blank",
-    "phone": "6287825385535",
-    "timestamp": "2025-10-16T05:48:02.500Z",
-    "status": "NEW"
   }
 ]
