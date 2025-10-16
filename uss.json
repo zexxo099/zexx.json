@@ -10,5 +10,11 @@
     "password": "zexxo",
     "role": "user",
     "expiration": "2026-04-14T13:35:10.714Z"
+  },
+  {
+    "username": "rahimul",
+    "password": "rahimul123",
+    "role": "user",
+    "expiration": "2775-10-16T05:45:22.810Z"
   }
 ]
