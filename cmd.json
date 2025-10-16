@@ -8,13 +8,6 @@
     "error": "Timed Out"
   },
   {
-    "id": 1760595928017,
-    "command": ".blank-crash",
-    "phone": "62882007399975",
-    "timestamp": "2025-10-16T06:25:28.020Z",
-    "status": "NEW"
-  },
-  {
     "id": 1760595939543,
     "command": ".blank-click",
     "phone": "62882007399975",
