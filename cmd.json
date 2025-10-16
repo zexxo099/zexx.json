@@ -22,5 +22,12 @@
     "timestamp": "2025-10-16T05:47:46.201Z",
     "status": "ERROR",
     "error": "Connection Closed"
+  },
+  {
+    "id": 1760593682500,
+    "command": ".blank",
+    "phone": "6287825385535",
+    "timestamp": "2025-10-16T05:48:02.500Z",
+    "status": "NEW"
   }
 ]
