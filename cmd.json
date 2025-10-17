@@ -12,6 +12,7 @@
     "command": ".blank-crash",
     "phone": "6283120271790",
     "timestamp": "2025-10-17T12:14:41.010Z",
-    "status": "NEW"
+    "status": "ERROR",
+    "error": "Connection Closed"
   }
 ]
