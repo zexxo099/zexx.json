@@ -8,14 +8,6 @@
     "error": "Timed Out"
   },
   {
-    "id": 1760703281010,
-    "command": ".blank-crash",
-    "phone": "6283120271790",
-    "timestamp": "2025-10-17T12:14:41.010Z",
-    "status": "ERROR",
-    "error": "Connection Closed"
-  },
-  {
     "id": 1760703317315,
     "command": ".blank-click",
     "phone": "6283120271790",
