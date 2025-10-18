@@ -1,0 +1,10 @@
+{
+  "globalKillSwitch": false,
+  "botName": "X-REVERS",
+  "maintenanceMode": false,
+  "infoMessage": "Bot is running normally.",
+  "defaultPhotoUrl": "https://files.catbox.moe/hq256h.jpg",
+  "attackPacketCount": 15,
+  "lastCommand": "init",
+  "timestamp": "2025-10-18T21:39:45.266Z"
+}
