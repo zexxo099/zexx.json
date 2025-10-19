@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "cmd_1760874540814_c8nu7sz6l",
+    "action": "create",
+    "payload": {
+      "username": "hamajir",
+      "size": "1gb"
+    },
+    "timestamp": "2025-10-19T11:49:00.814Z",
+    "status": "PENDING"
+  }
+]
