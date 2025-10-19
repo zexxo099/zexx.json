@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "uuid": "eb687d67-e368-4d2d-a064-60a78d13bd87",
+    "name": "admin",
+    "user": "admin",
+    "ram": 0
+  },
+  {
+    "id": 2,
+    "uuid": "8b52fe2a-9235-4dd1-aa62-6f6980585a2a",
+    "name": "zexxo",
+    "user": "admin",
+    "ram": 0
+  },
+  {
+    "id": 3,
+    "uuid": "a2844cfd-cdbc-4085-9d89-2e1c38238f02",
+    "name": "adminbwok",
+    "user": "admin",
+    "ram": 0
+  },
+  {
+    "id": 4,
+    "uuid": "c40c7369-90e6-4e45-9986-e5bd602633fc",
+    "name": "zexxobot",
+    "user": "zexxobot",
+    "ram": 0
+  }
+]
