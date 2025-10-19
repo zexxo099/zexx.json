@@ -26,5 +26,12 @@
     "name": "hamajir",
     "user": "hamajir",
     "ram": 1024
+  },
+  {
+    "id": 6,
+    "uuid": "00c4a249-e188-4521-8c09-e3bef43fedf8",
+    "name": "bawoken",
+    "user": "admin",
+    "ram": 0
   }
 ]
