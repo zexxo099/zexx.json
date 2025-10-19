@@ -8,5 +8,15 @@
     },
     "timestamp": "2025-10-19T11:49:00.814Z",
     "status": "PENDING"
+  },
+  {
+    "id": "cmd_1760874542477_fg42mls2k",
+    "action": "create",
+    "payload": {
+      "username": "hamajir",
+      "size": "1gb"
+    },
+    "timestamp": "2025-10-19T11:49:02.477Z",
+    "status": "PENDING"
   }
 ]
