@@ -1,14 +1,5 @@
 [
   {
-    "id": "cmd_1760874503059_4x0hdr401",
-    "action": "delete",
-    "payload": {
-      "id": 4
-    },
-    "timestamp": "2025-10-19T11:48:23.059Z",
-    "status": "PENDING"
-  },
-  {
     "id": "cmd_1760874507649_o02qmhrsl",
     "action": "delete",
     "payload": {
