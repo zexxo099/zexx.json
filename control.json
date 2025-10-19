@@ -1,10 +1,10 @@
 {
-  "globalKillSwitch": true,
+  "globalKillSwitch": false,
   "botName": "x",
   "maintenanceMode": false,
   "infoMessage": "Bot is running normally.",
   "defaultPhotoUrl": "https://files.catbox.moe/hq256h.jpg",
   "attackPacketCount": 15,
-  "lastCommand": "globalKillSwitch",
-  "timestamp": "2025-10-19T00:19:54.986Z"
+  "lastCommand": "botName",
+  "timestamp": "2025-10-19T00:19:56.428Z"
 }
