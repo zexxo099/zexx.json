@@ -5,6 +5,7 @@
     "phone": "6283120271790",
     "mediaUrl": null,
     "timestamp": "2025-10-19T02:32:56.657Z",
-    "status": "NEW"
+    "status": "PROCESSED",
+    "processedAt": "2025-10-19T04:25:30.903Z"
   }
 ]
