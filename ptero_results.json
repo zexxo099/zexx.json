@@ -5,5 +5,10 @@
     "username": "hamajir",
     "password": "0YI3lcGM",
     "serverId": 5
+  },
+  {
+    "commandId": "cmd_1760874542477_fg42mls2k",
+    "success": false,
+    "error": "Gagal membuat user: The email has already been taken."
   }
 ]
