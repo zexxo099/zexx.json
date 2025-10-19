@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "cmd_1760866725408_t1lzwjs6t",
+    "action": "create",
+    "payload": {
+      "name": "apaxoba",
+      "ram": "0"
+    },
+    "timestamp": "2025-10-19T09:38:45.408Z",
+    "status": "PENDING"
+  }
+]
