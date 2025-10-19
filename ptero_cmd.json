@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "cmd_1760874011838_7l3s0ezhc",
+    "action": "create",
+    "payload": {
+      "username": "zexxobot",
+      "size": "unli"
+    },
+    "timestamp": "2025-10-19T11:40:11.838Z",
+    "status": "PENDING"
+  }
+]
