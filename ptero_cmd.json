@@ -1,12 +1,1 @@
-[
-  {
-    "id": "cmd_1760867070531_nx9qa3160",
-    "action": "create",
-    "payload": {
-      "name": "apxosnsn",
-      "ram": "0"
-    },
-    "timestamp": "2025-10-19T09:44:30.531Z",
-    "status": "PENDING"
-  }
-]
+[]
