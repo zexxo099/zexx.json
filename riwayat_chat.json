@@ -20,7 +20,8 @@
       "text": "apa",
       "timestamp": "2025-10-20T15:08:53.094Z",
       "readBy": [
-        "admin"
+        "admin",
+        "z"
       ],
       "deleted": false,
       "replyTo": {
@@ -36,7 +37,8 @@
       "text": "jal",
       "timestamp": "2025-10-20T16:10:47.658Z",
       "readBy": [
-        "admin"
+        "admin",
+        "z"
       ],
       "deleted": false,
       "replyTo": null
@@ -48,7 +50,8 @@
       "text": "halo uy",
       "timestamp": "2025-10-20T16:10:58.942Z",
       "readBy": [
-        "admin"
+        "admin",
+        "z"
       ],
       "deleted": false,
       "replyTo": null
@@ -60,7 +63,8 @@
       "text": "halo",
       "timestamp": "2025-10-20T16:11:51.229Z",
       "readBy": [
-        "admin"
+        "admin",
+        "z"
       ],
       "deleted": false,
       "replyTo": null
@@ -71,7 +75,10 @@
       "text": "",
       "timestamp": "2025-10-20T17:34:25.990Z",
       "deleted": true,
-      "type": "deleted"
+      "type": "deleted",
+      "readBy": [
+        "z"
+      ]
     },
     {
       "id": "1760983358489",
@@ -80,7 +87,8 @@
       "text": "halooo",
       "timestamp": "2025-10-20T18:02:38.489Z",
       "readBy": [
-        "admin"
+        "admin",
+        "z"
       ],
       "deleted": false,
       "replyTo": {
