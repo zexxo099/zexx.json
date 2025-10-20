@@ -68,8 +68,10 @@
     {
       "id": "1760981665990",
       "sender": "admin",
-      "text": "halo uy",
-      "timestamp": "2025-10-20T17:34:25.990Z"
+      "text": "",
+      "timestamp": "2025-10-20T17:34:25.990Z",
+      "deleted": true,
+      "type": "deleted"
     }
   ],
   "admin_z": [
