@@ -28,6 +28,18 @@
         "sender": "z",
         "text": "woi anjay"
       }
+    },
+    {
+      "id": "1760976647658",
+      "sender": "admin",
+      "role": "admin",
+      "text": "jal",
+      "timestamp": "2025-10-20T16:10:47.658Z",
+      "readBy": [
+        "admin"
+      ],
+      "deleted": false,
+      "replyTo": null
     }
   ],
   "admin_z": [
