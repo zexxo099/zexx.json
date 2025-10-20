@@ -13,5 +13,19 @@
       "deleted": false,
       "replyTo": null
     }
+  ],
+  "admin_z": [
+    {
+      "id": "1760972915206",
+      "sender": "admin",
+      "role": "admin",
+      "text": "halo uy",
+      "timestamp": "2025-10-20T15:08:35.206Z",
+      "readBy": [
+        "admin"
+      ],
+      "deleted": false,
+      "replyTo": null
+    }
   ]
 }
