@@ -72,6 +72,22 @@
       "timestamp": "2025-10-20T17:34:25.990Z",
       "deleted": true,
       "type": "deleted"
+    },
+    {
+      "id": "1760983358489",
+      "sender": "admin",
+      "role": "admin",
+      "text": "halooo",
+      "timestamp": "2025-10-20T18:02:38.489Z",
+      "readBy": [
+        "admin"
+      ],
+      "deleted": false,
+      "replyTo": {
+        "id": "1760976711229",
+        "sender": "admin",
+        "text": "halo"
+      }
     }
   ],
   "admin_z": [
