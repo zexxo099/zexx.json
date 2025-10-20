@@ -96,6 +96,22 @@
         "sender": "admin",
         "text": "halo"
       }
+    },
+    {
+      "id": "1760983404815",
+      "sender": "z",
+      "role": "user",
+      "text": "halo",
+      "timestamp": "2025-10-20T18:03:24.815Z",
+      "readBy": [
+        "z"
+      ],
+      "deleted": false,
+      "replyTo": {
+        "id": "1760983358489",
+        "sender": "admin",
+        "text": "halooo"
+      }
     }
   ],
   "admin_z": [
