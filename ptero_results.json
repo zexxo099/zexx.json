@@ -10,5 +10,12 @@
     "commandId": "cmd_1760874542477_fg42mls2k",
     "success": false,
     "error": "Gagal membuat user: The email has already been taken."
+  },
+  {
+    "commandId": "cmd_1760969105060_iygtum0ed",
+    "success": true,
+    "username": "bokep",
+    "password": "HK5nbRZ1",
+    "serverId": 10
   }
 ]
