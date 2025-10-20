@@ -104,7 +104,8 @@
       "text": "halo",
       "timestamp": "2025-10-20T18:03:24.815Z",
       "readBy": [
-        "z"
+        "z",
+        "admin"
       ],
       "deleted": false,
       "replyTo": {
