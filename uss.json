@@ -23,5 +23,11 @@
     "password": "h",
     "role": "user",
     "expiration": "2025-10-21T18:01:56.749Z"
+  },
+  {
+    "username": "zho",
+    "password": "6cda3c14",
+    "role": "user",
+    "expiration": "2025-10-29T12:42:15.005Z"
   }
 ]
