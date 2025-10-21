@@ -113,6 +113,18 @@
         "sender": "admin",
         "text": "halooo"
       }
+    },
+    {
+      "id": "1761038669139",
+      "sender": "admin",
+      "role": "admin",
+      "text": "halo uy",
+      "timestamp": "2025-10-21T09:24:29.139Z",
+      "readBy": [
+        "admin"
+      ],
+      "deleted": false,
+      "replyTo": null
     }
   ],
   "admin_z": [
