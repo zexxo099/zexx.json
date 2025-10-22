@@ -138,6 +138,18 @@
       "deleted": false,
       "replyTo": null,
       "type": "text"
+    },
+    {
+      "id": "1761146698690",
+      "sender": "admin",
+      "role": "admin",
+      "text": "halo",
+      "timestamp": "2025-10-22T15:24:58.690Z",
+      "readBy": [
+        "admin"
+      ],
+      "deleted": false,
+      "replyTo": null
     }
   ],
   "admin_z": [
