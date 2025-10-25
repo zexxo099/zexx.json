@@ -1,20 +1,20 @@
-[
-  {
-    "username": "admin",
-    "password": "admin",
-    "role": "admin",
-    "expiration": "2099-12-31T23:59:59.000Z"
-  },
-  {
-    "username": "rahimul",
-    "password": "rahimul001",
-    "role": "user",
-    "expiration": "2025-11-15T10:00:00.000Z"
-  },
-  {
-    "username": "pengguna_baru",
-    "password": "passbaru456",
-    "role": "user",
-    "expiration": "2025-10-20T08:30:00.000Z"
-  }
-]
+{
+  "users": [
+    {
+      "name": "Admin Utama",
+      "username": "zexxo",
+      "password": "zexxo",
+      "role": "admin",
+      "expired": "2099-12-31T23:59:59.000Z",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "name": "User Biasa",
+      "username": "tester",
+      "password": "123",
+      "role": "user",
+      "expired": "2025-11-30T23:59:59.000Z",
+      "createdAt": "2025-10-25T00:00:00.000Z"
+    }
+  ]
+}
