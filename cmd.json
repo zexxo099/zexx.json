@@ -6,5 +6,21 @@
     "status": "NEW",
     "timestamp": "2025-10-25T12:09:22.847Z",
     "requestedBy": "zexxo"
+  },
+  {
+    "id": "rjic2x9l",
+    "command": ".cleancmd",
+    "phone": "6283120271790",
+    "status": "NEW",
+    "timestamp": "2025-10-25T14:55:45.164Z",
+    "requestedBy": "zexxo"
+  },
+  {
+    "id": "CLEAN-dhcl",
+    "command": ".cleancmd",
+    "phone": "000",
+    "status": "NEW",
+    "timestamp": "2025-10-25T14:55:45.165Z",
+    "requestedBy": "SYSTEM_CLEANER"
   }
 ]
