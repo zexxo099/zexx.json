@@ -3,8 +3,9 @@
     "id": "17hd9it3",
     "command": ".delay",
     "phone": "62895329077845",
-    "status": "NEW",
+    "status": "ERROR",
     "timestamp": "2025-10-26T03:18:43.141Z",
-    "requestedBy": "zexxo"
+    "requestedBy": "zexxo",
+    "error": "Timed Out"
   }
 ]
