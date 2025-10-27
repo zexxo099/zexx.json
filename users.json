@@ -43,5 +43,9 @@
       "expired": "2025-10-28T10:12:13.203Z",
       "createdAt": "2025-10-27T10:12:13.204Z"
     }
-  ]
+  ],
+  "settings": {
+    "maintenance": true,
+    "maintenanceMsg": "Server sedang dalam perbaikan oleh Owner. Silakan hubungi @zexhama di Telegram untuk info lebih lanjut."
+  }
 }
