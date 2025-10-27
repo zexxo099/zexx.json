@@ -23,6 +23,15 @@
       "role": "user",
       "expired": "2025-11-24T16:16:25.471Z",
       "createdAt": "2025-10-25T16:16:25.471Z"
+    },
+    {
+      "name": "z",
+      "username": "z",
+      "password": "z",
+      "role": "user",
+      "avatarUrl": null,
+      "expired": "2025-11-26T00:12:55.569Z",
+      "createdAt": "2025-10-27T00:12:55.569Z"
     }
   ]
 }
