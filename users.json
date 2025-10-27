@@ -45,7 +45,7 @@
     }
   ],
   "settings": {
-    "maintenance": true,
+    "maintenance": false,
     "maintenanceMsg": "Server sedang dalam perbaikan oleh Owner. Silakan hubungi @zexhama di Telegram untuk info lebih lanjut."
   }
 }
