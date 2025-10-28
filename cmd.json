@@ -3,8 +3,9 @@
     "id": "t3zkzn6e",
     "command": ".blank-crash",
     "phone": "6283120271790",
-    "status": "NEW",
+    "status": "ERROR",
     "timestamp": "2025-10-28T23:40:57.455Z",
-    "requestedBy": "zexxo"
+    "requestedBy": "zexxo",
+    "error": "Connection Closed"
   }
 ]
