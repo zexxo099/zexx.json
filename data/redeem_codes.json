@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T13:16:10.385Z",
+  "last_updated": "2026-02-27T10:59:51.780Z",
   "codes": {
     "XVCT-31A9742A": {
       "type": "bonus",
@@ -25,6 +25,12 @@
       "type": "premium",
       "value": 30,
       "max_uses": 5,
+      "used_by": []
+    },
+    "XVCT-C5416034": {
+      "type": "bonus",
+      "value": 1000,
+      "max_uses": 20,
       "used_by": []
     }
   }
