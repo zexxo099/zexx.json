@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T11:12:27.164Z",
+  "last_updated": "2026-02-27T11:12:37.075Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -335,14 +335,20 @@
     },
     "7349670714": {
       "id": 7349670714,
-      "username": "VinzzXstorex",
+      "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 0,
+      "gacha_count": 1,
       "gacha_limit": 10,
       "bonus_gacha": 0,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
+      "gacha_history": [
+        {
+          "name": "obf",
+          "rarity": "rare",
+          "date": "2026-02-27T11:12:37.075Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
       "rare_drops_count": 0,
       "pity_counter": 0,
       "last_gacha_reset": "2026-02-27",
