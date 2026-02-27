@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T11:00:07.794Z",
+  "last_updated": "2026-02-27T11:03:50.928Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -259,13 +259,19 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 0,
+      "gacha_count": 1,
       "gacha_limit": 10,
-      "bonus_gacha": 1000,
-      "gacha_history": [],
-      "total_gacha_lifetime": 0,
+      "bonus_gacha": 0,
+      "gacha_history": [
+        {
+          "name": "tredic gen 60.zip",
+          "rarity": "common",
+          "date": "2026-02-27T11:03:50.928Z"
+        }
+      ],
+      "total_gacha_lifetime": 1,
       "rare_drops_count": 0,
-      "pity_counter": 0,
+      "pity_counter": 1,
       "last_gacha_reset": "2026-02-27",
       "last_daily_claim": null,
       "referred_by": null,
