@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T21:36:07.926Z",
+  "last_updated": "2026-02-27T10:59:04.550Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -252,6 +252,23 @@
       "last_gacha_reset": "2025-10-14",
       "last_daily_claim": null,
       "referred_by": "6383948262",
+      "invite_count": 0
+    },
+    "7233292382": {
+      "id": 7233292382,
+      "username": "rahmatreal",
+      "is_premium": false,
+      "premium_expires": null,
+      "gacha_count": 0,
+      "gacha_limit": 10,
+      "bonus_gacha": 0,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "pity_counter": 0,
+      "last_gacha_reset": "2026-02-27",
+      "last_daily_claim": null,
+      "referred_by": null,
       "invite_count": 0
     }
   }
