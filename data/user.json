@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T11:25:16.612Z",
+  "last_updated": "2026-02-27T11:47:25.504Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -256,7 +256,7 @@
     },
     "7233292382": {
       "id": 7233292382,
-      "username": "N/A",
+      "username": "rahmatreal",
       "is_premium": false,
       "premium_expires": null,
       "gacha_count": 2,
@@ -317,7 +317,7 @@
       "premium_expires": null,
       "gacha_count": 1,
       "gacha_limit": 10,
-      "bonus_gacha": 4000,
+      "bonus_gacha": 6000,
       "gacha_history": [
         {
           "name": "CaraoselCurse",
