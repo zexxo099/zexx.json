@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T11:54:03.360Z",
+  "last_updated": "2026-02-27T11:55:43.057Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -287,7 +287,7 @@
       "username": "N/A",
       "is_premium": false,
       "premium_expires": null,
-      "gacha_count": 3,
+      "gacha_count": 4,
       "gacha_limit": 10,
       "bonus_gacha": 0,
       "gacha_history": [
@@ -305,11 +305,16 @@
           "name": "NOKOS",
           "rarity": "common",
           "date": "2026-02-27T11:54:03.359Z"
+        },
+        {
+          "name": "SCRIPT GACHA V2",
+          "rarity": "legendary",
+          "date": "2026-02-27T11:55:43.057Z"
         }
       ],
-      "total_gacha_lifetime": 3,
+      "total_gacha_lifetime": 4,
       "rare_drops_count": 0,
-      "pity_counter": 2,
+      "pity_counter": 0,
       "last_gacha_reset": "2026-02-27",
       "last_daily_claim": null,
       "referred_by": null,
