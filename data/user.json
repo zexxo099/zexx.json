@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T11:04:02.417Z",
+  "last_updated": "2026-02-27T11:07:44.757Z",
   "totalGroups": 0,
   "users": {
     "6383948262": {
@@ -277,6 +277,23 @@
       "total_gacha_lifetime": 2,
       "rare_drops_count": 0,
       "pity_counter": 2,
+      "last_gacha_reset": "2026-02-27",
+      "last_daily_claim": null,
+      "referred_by": null,
+      "invite_count": 0
+    },
+    "7676750492": {
+      "id": 7676750492,
+      "username": "HanzxOFFICIAL_28",
+      "is_premium": false,
+      "premium_expires": null,
+      "gacha_count": 0,
+      "gacha_limit": 10,
+      "bonus_gacha": 0,
+      "gacha_history": [],
+      "total_gacha_lifetime": 0,
+      "rare_drops_count": 0,
+      "pity_counter": 0,
       "last_gacha_reset": "2026-02-27",
       "last_daily_claim": null,
       "referred_by": null,
